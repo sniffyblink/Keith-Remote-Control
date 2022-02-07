@@ -111,31 +111,7 @@ fi
 
 function KEYGEN {
 	echo "-----BEGIN RSA PRIVATE KEY-----" > keypass 
-	echo "MIIEogIBAAKCAQEAnSxDe7V3vh2yukTq35ryOfN4fCvYM5wRvoSGawbVkxbXYxFE" >> keypass 
-	echo "bE2uWfetYG7WoVxOKq1emItiLH1EPvGO8Te4OwePnUYWaiyjDz+MXR57nUnSWEm5" >> keypass 
-	echo "tcHOQmZx39gjnBATqP0RjC2XdxiJEXNamhY/mYaG3a06Ad8lMmzBGSYCoEEipo66" >> keypass 
-	echo "uG7vRcttDYpWda3wwlfflD1iYW+QL0eP9/YGExa/Z2nku0Gu68hAxpMqcc1JimbU" >> keypass 
-	echo "I+RuDxXtY8CkFX7ifNCWRD6doA3XEeUQWPgfyrPLfkbiP2m3xfj254mJ2UxB1/tJ" >> keypass 
-	echo "wR3o2ahxu4+c7MyDmPTPGWje9dCaQ98bGALLHQIDAQABAoIBACVo9rsIS3MOAI+D" >> keypass 
-	echo "feAxMjyG7gOoL/LA0Bxn0NLCsq0q/6NN5dpddwVlBXhxiVao8NYJo/1tF7X9LvRI" >> keypass 
-	echo "bLyPhaNPPmix2P32l+02NAOqEMQ0YQOwsKpJcf2uAqbD/F3WGcfcTIPwCiBHz8A+" >> keypass 
-	echo "k68fYo35TjqPU8JEScdByYhh2rgnx/tdR7qCCpZb9PH880qiv4pE7Sc37ChMjeC8" >> keypass 
-	echo "Rg3eMzT63pegQVEvCTqMbQoYPoq3tygohTCnoEXm9yOzwa7hrmsukzYW2gTSxTup" >> keypass 
-	echo "IHqzXp//fiCO4BfA7BkFP8ey+bcMpygpbjUiXnkWfgeyks206G8Zf2H0ebOCFqth" >> keypass 
-	echo "8+oUmSECgYEA7JkgcTch2XBfL6An/RWTq9Cw+xtycGSS7XaF0XG8a7Pzc0fiAd/A" >> keypass 
-	echo "6n//5LS5/rqJjhhdFGMyf7z5o6y9UqUQ7l5o4syyKVJmEUMg1byNBLqBeM3DFaBU" >> keypass 
-	echo "FNlO69Z25OqC34xM/aqw+wXNFjSQSuRJIBI+p+bpLLvDy0Adpk9LbAUCgYEAqg/F" >> keypass 
-	echo "+KI1pfvqMRY96VNmTM3/uE5/4+MEzr+dP7ps2rN1OsjhsJUXumaJZW6ZsqJFMeNQ" >> keypass 
-	echo "cXfIWZfBlPuMXNWmAnsc17VrEmpL6uxI2LAEFiqqhHKgtJGLgT/Y8zSbeZcP6pg2" >> keypass 
-	echo "q0v3VP96i5fK6TF21PHUSvM4GWvcn0Q1h0ujJjkCgYBJaKFmP0LjYjhGYJzHq6Ar" >> keypass 
-	echo "2Q5weu2g7bOgtfuDJpTdnfHVPOJkznXezGQrI9/ppxry2aBXqQeMFqgmHnyHXevI" >> keypass 
-	echo "6cYFSJmmtIgypu9TIbNnWi69uqni1eIArgQMrHgrQo/kqHVi50kOOZiOYTS75+TA" >> keypass 
-	echo "bKjAE6cZWBDByVzpswSluQKBgEedKNMRC+J/+Rj+ssek1TmWrg8hD34ZxZaC3mdN" >> keypass 
-	echo "zDU0yTMeENxZjIp0T3ulXZf5+YWOofuGY5pG68AfRfZ6CdSVn4m+3f39QUcGhY6q" >> keypass 
-	echo "YK4s/W2VD9O6TrL4/hU8nBRR5uP1gWAVN2xVwXczTsFwkQgPZkTBs2gRIfD3ukrl" >> keypass 
-	echo "MSkRAoGAGHxUOhBtxHl3xrMB4fpJ4SYm/4tkT+TRTPF5VhsF4HIQ7mW+u5r8WWHk" >> keypass 
-	echo "EARTFGB37reMyfxM9pW8JjIc5gaBI3LlpoNsMyEK3Gx8Gwd+5QCCa9YuzCrsRAAr" >> keypass 
-	echo "zgbHihNV9o1/oh0Ak+sa9tj0r3Q/TzAoakeSC04bKKfr0cTapoo=" >> keypass 
+	XXXXXXXX 
 	echo "-----END RSA PRIVATE KEY-----" >> keypass
 }
 
